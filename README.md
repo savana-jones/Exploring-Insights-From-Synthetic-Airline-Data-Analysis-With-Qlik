@@ -1,7 +1,8 @@
 # Exploring-Insights-From-Synthetic-Airline-Data-Analysis-With-Qlik
 
 1. Introduction
- 1.1 Overview
+ 
+1.1 Overview
 The project "Exploring Insights from Synthetic Airline Data Analysis with Qlik" utilizes a synthetic airline dataset from Kaggle to extract valuable insights using Qlik, a powerful business intelligence and data visualization tool. The dataset includes various aspects of airline operations such as passenger information, airport details, flight schedules, and flight status. By employing Qlik’s advanced analytical capabilities, the project aims to uncover patterns, trends, and correlations within the data to support decision-making processes for airlines, airports, and related stakeholders.
 
  1.2 Purpose
