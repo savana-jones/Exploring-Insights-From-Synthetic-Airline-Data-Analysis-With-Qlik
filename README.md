@@ -1,5 +1,11 @@
 # Exploring-Insights-From-Synthetic-Airline-Data-Analysis-With-Qlik
 
+## A quick demo video of the dashboard is attached
+
+
+https://github.com/user-attachments/assets/4f1b0584-6548-4da5-8ad1-6f10901c695d
+
+
 1. Introduction
  
 1.1 Overview
@@ -83,7 +89,3 @@ To create a report:
  8.3 Utilization of Data Filters
 Filtered the dataset to obtain meaningful insights and to create new columns for further utilization.
  8.4 No. of Visualization/Graphs: 16 graphs and visualizations have been included to provide better insights of the dataset.
-
-## A quick demo link of the dashboard is attached
-https://drive.google.com/file/d/1BWwPFIRYTMZK1TdULUvlXDin8tEsk0YW/view?usp=drive_link
-
